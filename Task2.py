@@ -16,5 +16,5 @@ def create_sequence(number):
     return result_list
 
 
-n = int(input())
+n = int(input('Введите число: '))
 print(create_sequence(n))
